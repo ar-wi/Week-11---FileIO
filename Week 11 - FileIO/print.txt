@@ -1,0 +1,3 @@
+Account	Name	Balance
+1	Areh	100000
+3	Beni	50
